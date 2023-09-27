@@ -1,0 +1,45 @@
+.color-picker-heading {
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+button {
+    padding: 20px;
+    border-radius: 8px;
+    margin: 4px;
+}
+
+#button1 {
+    background-color: #e0e0e0;
+}
+
+#button2 {
+    background-color: #6fcf97;
+}
+
+#button3 {
+    background-color: #56ccf2;
+}
+
+#button4 {
+    background-color: #bb6bd9;
+}
+
+.current-color-info {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-family: Roboto;
+    border-radius: 10px;
+    padding: 12px;
+    margin: 10px;
+    margin-top: 20px;
+}
+
+.color-code {
+    color: #56ccf2;
+}
+
+.main-container {
+    height: 100vh;
+}
